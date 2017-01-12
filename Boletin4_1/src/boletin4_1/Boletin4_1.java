@@ -9,7 +9,7 @@ public class Boletin4_1 {
         coche.frenar(40);
         System.out.println("Velocidade " + coche.getVelocidade());
         
-        
+        //te parto la cara?
         
     
     }
